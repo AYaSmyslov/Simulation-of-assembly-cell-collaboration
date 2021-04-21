@@ -5,8 +5,7 @@ What you need for start program:
         2.1 kinect;
         2.2 LBR_iiwa_7_R800.
     3. Install the required libraries:
-        3.1 pip install opencv;
-        3.2 pip install openni.
+        3.1 pip install opencv.
 """
 class Motion_sim():
     def __init__(self):
